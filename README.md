@@ -2,9 +2,6 @@
 
 ### Analista financeiro, formada em psicologia e em processo de transição de carreira para a área de tecnologia, com foco em programação, utilizando a linguagem Python.
 
-<p align="center">
-  <img src="https://th.bing.com/th/id/OIG1.NTrwEk9tTXidWNGTyO68?pid=ImgGn" width="400px" alt="Computador iuriCode">
-</p>
 
 
 ## Conecte-se Comigo
